@@ -44,6 +44,7 @@ GEM
       jwt (>= 1.5, < 4.0)
       nokogiri (>= 1.6, < 2.0)
     uri (1.1.1)
+    webrick (1.9.1)
 
 PLATFORMS
   x64-mingw-ucrt
@@ -53,6 +54,7 @@ DEPENDENCIES
   dotenv
   sinatra
   twilio-ruby
+  webrick
 
 RUBY VERSION
    ruby 3.3.10p183
