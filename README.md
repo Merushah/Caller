@@ -10,5 +10,7 @@ A lightweight autodialer tool that allows you to make **single** or **bulk calls
 
 ## Setup
 git clone https://github.com/Merushah/Caller.git
+
 cd Caller
+
 npm install   # or pip install -r requirements.txt
